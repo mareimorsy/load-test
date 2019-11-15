@@ -13,7 +13,7 @@ go run limit.go
 curl http://localhost:8081/sleep
 ```
 
-### 2 - Start load test service
+### 3 - Start load test service
 
 ```
 go run rps-poisson.go
